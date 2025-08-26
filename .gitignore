@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Ignore original Swift source snapshot (do not push to GitHub)
+bitchat-1.2.0/
