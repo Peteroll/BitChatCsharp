@@ -364,3 +364,5 @@ FodyWeavers.xsd
 
 # Ignore original Swift source snapshot (do not push to GitHub)
 bitchat-1.2.0/
+
+.vscode/
